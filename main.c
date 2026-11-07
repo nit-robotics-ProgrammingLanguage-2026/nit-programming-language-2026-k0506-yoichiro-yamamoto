@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int r;
+    double r;
     scanf("%lf", &r);
     if (r > 0)
     {
